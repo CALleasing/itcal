@@ -1,0 +1,5 @@
+{
+  "editor.formatOnSave": true,
+  "eslint.workingDirectories": ["src"],
+  "css.hover.documentation": true
+}
