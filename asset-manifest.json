@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/itcal/static/css/main.1c74210b.css",
-    "main.js": "/itcal/static/js/main.512e544e.js",
+    "main.js": "/itcal/static/js/main.2ffb7d9e.js",
     "static/js/787.cf9d8106.chunk.js": "/itcal/static/js/787.cf9d8106.chunk.js",
     "static/media/Seal.png": "/itcal/static/media/Seal.211b75032f0159a0650e.png",
     "static/media/CAL-round-Logo-512x512.png": "/itcal/static/media/CAL-round-Logo-512x512.47fe436910a5b7c414ad.png",
@@ -10,11 +10,11 @@
     "static/media/CALLEASING_Watermark.png": "/itcal/static/media/CALLEASING_Watermark.1f91f175a893fca2f3ff.png",
     "index.html": "/itcal/index.html",
     "main.1c74210b.css.map": "/itcal/static/css/main.1c74210b.css.map",
-    "main.512e544e.js.map": "/itcal/static/js/main.512e544e.js.map",
+    "main.2ffb7d9e.js.map": "/itcal/static/js/main.2ffb7d9e.js.map",
     "787.cf9d8106.chunk.js.map": "/itcal/static/js/787.cf9d8106.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1c74210b.css",
-    "static/js/main.512e544e.js"
+    "static/js/main.2ffb7d9e.js"
   ]
 }
