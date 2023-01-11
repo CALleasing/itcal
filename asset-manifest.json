@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/itcal/static/js/main.a48af8bb.js",
+    "main.js": "/itcal/static/js/main.af334056.js",
     "static/js/787.cf9d8106.chunk.js": "/itcal/static/js/787.cf9d8106.chunk.js",
     "static/media/Seal.png": "/itcal/static/media/Seal.211b75032f0159a0650e.png",
     "static/media/ksm-logo.jpg": "/itcal/static/media/ksm-logo.19659687fd0af23cf8be.jpg",
@@ -10,10 +10,10 @@
     "static/media/CAL2009_Watermark.png": "/itcal/static/media/CAL2009_Watermark.02007b05dcf0a50388fc.png",
     "static/media/CALLEASING_Watermark.png": "/itcal/static/media/CALLEASING_Watermark.1f91f175a893fca2f3ff.png",
     "index.html": "/itcal/index.html",
-    "main.a48af8bb.js.map": "/itcal/static/js/main.a48af8bb.js.map",
+    "main.af334056.js.map": "/itcal/static/js/main.af334056.js.map",
     "787.cf9d8106.chunk.js.map": "/itcal/static/js/787.cf9d8106.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.a48af8bb.js"
+    "static/js/main.af334056.js"
   ]
 }
